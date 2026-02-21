@@ -1,14 +1,40 @@
-# Audio Ads (Triton)
+# --- AUDIO ADS ---
+0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 tritondigital.com
 0.0.0.0 sdk.tritondigital.com
 
-# Video & Mobile Ads (Google IMA / AdMob)
-0.0.0.0 imasdk.googleapis.com
+# --- DISPLAY & PROGRAMMATIC ---
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 taboola.com
+0.0.0.0 outbrain.com
+0.0.0.0 criteo.com
+0.0.0.0 mgid.com
 
-# Analytics & Social (Facebook Pixel / SDK)
-0.0.0.0 connect.facebook.net
+# --- MOBILE ADS (SDKs) ---
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 applovin.com
+0.0.0.0 ads.admob.com
+0.0.0.0 vungle.com
+0.0.0.0 chartboost.com
+0.0.0.0 inmobi.com
+0.0.0.0 mintegral.com
+
+# --- ANALYTICS ---
+0.0.0.0 google-analytics.com
+0.0.0.0 analytics.google.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 hotjar.com
+0.0.0.0 mixpanel.com
+0.0.0.0 amplitude.com
+0.0.0.0 segment.io
+
+# --- SOCIAL & CROSS-SITE TRACKING ---
 0.0.0.0 graph.facebook.com
-0.0.0.0 facebook.com
-0.0.0.0 fbcdn.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 linkedin.com/insight
+0.0.0.0 pinterest.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 sc-static.net
+0.0.0.0 lotame.com
+0.0.0.0 quantcast.com
