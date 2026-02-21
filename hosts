@@ -1,5 +1,14 @@
+# Audio Ads (Triton)
 0.0.0.0 tritondigital.com
+0.0.0.0 sdk.tritondigital.com
+
+# Video & Mobile Ads (Google IMA / AdMob)
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+
+# Analytics & Social (Facebook Pixel / SDK)
 0.0.0.0 connect.facebook.net
 0.0.0.0 graph.facebook.com
+0.0.0.0 facebook.com
+0.0.0.0 fbcdn.net
