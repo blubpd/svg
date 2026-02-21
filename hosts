@@ -1,40 +1,75 @@
-# --- AUDIO ADS ---
-0.0.0.0 spclient.wg.spotify.com
-0.0.0.0 tritondigital.com
-0.0.0.0 sdk.tritondigital.com
+# --- Audio Ads ---
+0.0.0.0 audio-ssl.itunes.apple.com
+0.0.0.0 csync.spotxchange.com
+0.0.0.0 metrics.audioboom.com
+0.0.0.0 pdst.fm
+0.0.0.0 traffic.omny.fm
+0.0.0.0 tr.acast.com
+0.0.0.0 zen.yandex.ru
 
-# --- DISPLAY & PROGRAMMATIC ---
+# --- Video Ads ---
+0.0.0.0 ads.youtube.com
+0.0.0.0 s.youtube.com
+0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 fwmrm.net
+0.0.0.0 unagi.amazon.com
+0.0.0.0 v.fwmrm.net
+0.0.0.0 video.unrulymedia.com
+0.0.0.0 ssl.imrworldwide.com
+
+# --- Display Ads ---
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 taboola.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 gogoogle.com
+0.0.0.0 doubleclick.net
+
+# --- Programmatic ---
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 outbrain.com
+0.0.0.0 taboola.com
 0.0.0.0 criteo.com
-0.0.0.0 mgid.com
 
-# --- MOBILE ADS (SDKs) ---
-0.0.0.0 unityads.unity3d.com
-0.0.0.0 applovin.com
-0.0.0.0 ads.admob.com
-0.0.0.0 vungle.com
-0.0.0.0 chartboost.com
-0.0.0.0 inmobi.com
-0.0.0.0 mintegral.com
+# --- Mobile Ads ---
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 app.appsflyer.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 tracking.miui.com
 
-# --- ANALYTICS ---
+# --- Analytics ---
 0.0.0.0 google-analytics.com
 0.0.0.0 analytics.google.com
-0.0.0.0 googletagmanager.com
-0.0.0.0 hotjar.com
-0.0.0.0 mixpanel.com
-0.0.0.0 amplitude.com
-0.0.0.0 segment.io
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 appmetrica.yandex.com
+0.0.0.0 mtalk.google.com
 
-# --- SOCIAL & CROSS-SITE TRACKING ---
-0.0.0.0 graph.facebook.com
+# --- Social Tracking ---
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 analytics.pinterest.com
 0.0.0.0 connect.facebook.net
-0.0.0.0 linkedin.com/insight
-0.0.0.0 pinterest.com
-0.0.0.0 analytics.tiktok.com
-0.0.0.0 ads-api.tiktok.com
-0.0.0.0 sc-static.net
-0.0.0.0 lotame.com
-0.0.0.0 quantcast.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads.linkedin.com
+
+# --- Cross-Site Tracking ---
+0.0.0.0 scorecardresearch.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 gemius.pl
+0.0.0.0 hit.gemius.pl
+0.0.0.0 quantserve.com
