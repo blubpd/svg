@@ -16,6 +16,10 @@
 0.0.0.0 v.fwmrm.net
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 ssl.imrworldwide.com
+0.0.0.0 teads.tv
+0.0.0.0 a.teads.tv
+0.0.0.0 cdn.teads.tv
+0.0.0.0 prebid.teads.tv
 
 # --- Display Ads ---
 0.0.0.0 pagead2.googlesyndication.com
@@ -37,6 +41,12 @@
 0.0.0.0 taboola.com
 0.0.0.0 criteo.com
 
+# --- Native Ads ---
+0.0.0.0 try.nativo.com
+0.0.0.0 gtp.nativo.com
+0.0.0.0 static.nativo.com
+0.0.0.0 nativoad.net
+
 # --- Mobile Ads ---
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 metrics.icloud.com
@@ -46,6 +56,9 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 tracking.miui.com
+0.0.0.0 admob.com
+0.0.0.0 googleadmob.com
+0.0.0.0 r20swj13mr.com
 
 # --- Analytics ---
 0.0.0.0 google-analytics.com
